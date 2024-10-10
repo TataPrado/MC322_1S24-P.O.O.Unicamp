@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64" version="1.8.0_402">
+        <bootpath>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/resources.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/rt.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/sunrsasign.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/jsse.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/jce.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/charsets.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/jfr.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre" version="1.8.0_402">
+        <bootpath>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/resources.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/rt.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/sunrsasign.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/jsse.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/jce.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/charsets.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/jfr.jar"/>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/usr/lib/jvm/java-17-openjdk-17.0.9.0.9-3.fc39.x86_64" version="17.0.9"/>
+    <libraryInfo home="/usr/lib/jvm/java-22-openjdk-22.0.0.0.36-1.rolling.fc39.x86_64" version="22"/>
+    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-11.0.22.0.7-1.fc39.x86_64" version="11.0.22"/>
+</libraryInfos>

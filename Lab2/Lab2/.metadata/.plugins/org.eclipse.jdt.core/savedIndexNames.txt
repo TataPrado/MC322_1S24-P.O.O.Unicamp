@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+/home/specg22-2/ra250524/eclipse-workspace/LAB2/Lab2/.metadata/.plugins/org.eclipse.jdt.core

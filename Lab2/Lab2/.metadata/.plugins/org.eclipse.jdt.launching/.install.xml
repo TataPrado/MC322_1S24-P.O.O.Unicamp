@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64" stamp="1712077420386"/>
+    <entry loc="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-2.fc39.x86_64/jre" stamp="1712077411199"/>
+    <entry loc="/usr/lib/jvm/java-17-openjdk-17.0.9.0.9-3.fc39.x86_64" stamp="1704825467898"/>
+    <entry loc="/usr/lib/jvm/java-22-openjdk-22.0.0.0.36-1.rolling.fc39.x86_64" stamp="1710374037526"/>
+    <entry loc="/usr/lib/jvm/java-11-openjdk-11.0.22.0.7-1.fc39.x86_64" stamp="1707308180216"/>
+</dirs>

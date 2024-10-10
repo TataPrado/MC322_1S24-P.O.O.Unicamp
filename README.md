@@ -12,7 +12,8 @@ Compreender os principais conceitos de orientação a objetos e o uso desses em 
 Desenvolver um sistema de software orientado a objetos em Java, incluindo a modelagem, desenvolvimento
 prático e uso das ferramentas adequadas.
 
-3. Programa da Disciplina
+3. Programa da Disciplina:
+   
   Os tópicos a serem apresentados no curso incluem:
   - Introdução ao versionamento de projetos
   - Abstraçãoo de Dados, Objetos, Classes e Tipos
@@ -30,7 +31,8 @@ prático e uso das ferramentas adequadas.
   - UML - Unified Modeling Language
   - Tópicos em Orientação a Objetos: padrões de projeto
 
-4. Referências
+4. Referências:
+   
 Algumas das referências consideradas importantes para o cumprimento do conteúdo proposto encontram-se listadas a seguir.
 - Object-Oriented Thought Process, The (Developer’s Library) 5th Edition.
 - Effective Java 3rd Edition.

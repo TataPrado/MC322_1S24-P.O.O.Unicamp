@@ -1,0 +1,32 @@
+<Itens>
+    <Item>
+        <nome>Espada Longa</nome>
+        <bonusPoder>5</bonusPoder>
+        <valor>500</valor>
+        <tipo>MAO</tipo>
+        <itemGrande>true</itemGrande>
+        <classesCompativeis>
+            <classe>GUERREIRO</classe>
+            <classe>ARQUEIRO</classe>
+        </classesCompativeis>
+        <racasCompativeis>
+            <raca>HUMANO</raca>
+            <raca>ELFO</raca>
+        </racasCompativeis>
+    </Item>
+    <Item>
+        <nome>Elmo Viking</nome>
+        <bonusPoder>10</bonusPoder>
+        <valor>200</valor>
+        <tipo>CABECA</tipo>
+        <itemGrande>false</itemGrande>
+        <classesCompativeis>
+            <classe>GUERREIRO</classe>
+        </classesCompativeis>
+        <racasCompativeis>
+            <raca>HUMANO</raca>
+            <raca>ELFO</raca>
+            <raca>ANAO</raca>
+        </racasCompativeis>
+    </Item>
+</Itens>

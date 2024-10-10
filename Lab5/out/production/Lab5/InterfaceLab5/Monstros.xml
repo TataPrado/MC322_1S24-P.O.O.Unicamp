@@ -1,0 +1,14 @@
+<Monstros>
+    <Monstro>
+        <nome>Ogro</nome>
+        <poder>15</poder>
+        <tesouros>2</tesouros>
+        <niveisPerdidos>1</niveisPerdidos>
+    </Monstro>
+    <Monstro>
+        <nome>Goblin</nome>
+        <poder>8</poder>
+        <tesouros>1</tesouros>
+        <niveisPerdidos>0</niveisPerdidos>
+    </Monstro>
+</Monstros>

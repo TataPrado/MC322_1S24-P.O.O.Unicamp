@@ -32,14 +32,12 @@ prático e uso das ferramentas adequadas.
 
 4. Referências
 Algumas das referências consideradas importantes para o cumprimento do conteúdo proposto encontram-se listadas a seguir.
-
-1. Object-Oriented Thought Process, The (Developer’s Library) 5th Edition.
-2. Effective Java 3rd Edition.
-3. The Java Programming Language, Ken Arnold, James Gosling, & David Holmes; Prentice Hall, 4th edition
-(2005)
-4. Java in a Nutshell, David Flanagan; O’Reilly & Associates, 5th edition (2005)
-5. Thinking in Java, Bruce Eckel; Prentice Hall, 4th edition (2006)
-6. Head First Java, Kathy Sierra & Bert Bates; O’Reilly Media, 2nd edition (2005)
-7. Java How to Program, Harvey M. Deitel & Paul J. Deitel; Prentice Hall, 7th edition (2007)
-8. Object-Oriented Programming with Java: An Introduction, David J. Barnes; Prentice Hall (2000)
-9. The Unified Modeling Language User Guide, Grady Booch et al., 2nd Edition (1999)
+- Object-Oriented Thought Process, The (Developer’s Library) 5th Edition.
+- Effective Java 3rd Edition.
+- The Java Programming Language, Ken Arnold, James Gosling, & David Holmes; Prentice Hall, 4th edition (2005)
+- Java in a Nutshell, David Flanagan; O’Reilly & Associates, 5th edition (2005)
+- Thinking in Java, Bruce Eckel; Prentice Hall, 4th edition (2006)
+- Head First Java, Kathy Sierra & Bert Bates; O’Reilly Media, 2nd edition (2005)
+- Java How to Program, Harvey M. Deitel & Paul J. Deitel; Prentice Hall, 7th edition (2007)
+- Object-Oriented Programming with Java: An Introduction, David J. Barnes; Prentice Hall (2000)
+- The Unified Modeling Language User Guide, Grady Booch et al., 2nd Edition (1999)
